@@ -1,8 +1,4 @@
-# dependencies
-node_modules
-
-# run
-_site
-
-# etc
-todo.md
+_site/
+node_modules/
+package-lock.json
+pnpm-lock.json
