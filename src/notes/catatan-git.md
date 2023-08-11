@@ -29,7 +29,7 @@ selain menggunakan git melalui command-line, tersedia juga GUI Client untuk git 
 selengkapnya bisa dilihat [disini](https://git-scm.com/downloads/guis)
 
 # Mulai menggunakan git 
-Berikut adalah perintah git yang sering digunakan dalam pengkodean sehari-hari
+Berikut adalah perintah git yang umum dan sering digunakan.
 
 ### git init
 Untuk mulai memantau perubahan kode selama pengembangan pertama-tama diperlukan untuk menginisiasi git terlebih dahulu.
